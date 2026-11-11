@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FullName>Олександр Петренко</FullName>
+    <AverageGrade>85.4</AverageGrade>
+  </Student>
+  <Student>
+    <FullName>Марія Коваленко</FullName>
+    <AverageGrade>94.2</AverageGrade>
+  </Student>
+  <Student>
+    <FullName>Іван Шевченко</FullName>
+    <AverageGrade>78.9</AverageGrade>
+  </Student>
+  <Student>
+    <FullName>Анна Бондаренко</FullName>
+    <AverageGrade>91.5</AverageGrade>
+  </Student>
+  <Student>
+    <FullName>Максим Мельник</FullName>
+    <AverageGrade>88</AverageGrade>
+  </Student>
+</ArrayOfStudent>
